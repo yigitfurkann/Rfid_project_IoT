@@ -1,6 +1,8 @@
 ## 🎥 Proje Tanıtım Videosu
 👉 [YouTube’da İzle](https://youtube.com/shorts/GTKkeDu2JjI?feature=share)
 
+<img width="964" height="500" alt="image" src="https://github.com/user-attachments/assets/040421f1-19ee-448b-ae57-e4548a65870e" />
+
 🔐 RFID Tabanlı Erişim Kontrol Sistemi (Arduino RC522)
 
 Bu proje, Arduino UNO ve MFRC522 RFID modülü kullanarak yetkili kartlara erişim izni veren, yetkisiz kartlarda ise uyarı LED’i yakan bir güvenlik sistemidir. Sistem, kartın benzersiz UID numarasını okuyarak kontrol yapar.
